@@ -11,7 +11,7 @@ I'm a passionate MERN Stack Developer
 I'm an aspiring MERN stack developer, equipped with basic skills in MongoDB, Express.js, React.js, and Node.js, seeking opportunities to gain practical experience and grow within the field of web development.
 
 * 🌍  I'm based in Mangaluru, Karnataka, India
-* 🖥️  See my portfolio at [My Porfolio](http://reactportfolio-shreyashs.vercel.app/)
+* 🖥️  See my portfolio at [My Porfolio](http://shreyashs.me/)
 * ✉️  You can contact me at [s09082003@gmail.com](mailto:s09082003@gmail.com)
 
 ### Skills
